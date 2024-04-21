@@ -5,3 +5,7 @@ Integration Test: Example interaction test between a PostgreSQL database table a
 ## Test with:
 -        go test -v ./...
 
+
+
+![TQT](https://github.com/osag1e/table-query-tester/blob/main/image/tqt.png)
+
